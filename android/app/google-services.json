@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "389491950481",
+    "project_id": "telehealthdoctor-2e08f",
+    "storage_bucket": "telehealthdoctor-2e08f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389491950481:android:2b069ba24a8eb7465dd030",
+        "android_client_info": {
+          "package_name": "com.example.doctor_appointmentapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT8LlGOj5COvLiQqKltdcRlx7CN6thyKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
